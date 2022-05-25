@@ -1,0 +1,1 @@
+xcopy /s /i "%cd%\TQS_BACKEND" "C:\tqs\TQS\TQS_BACKEND"
